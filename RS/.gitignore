@@ -1,0 +1,6 @@
+*.pyc
+*.log
+1.txt
+*.dat
+*.pickle
+.ipynb_checkpoints/

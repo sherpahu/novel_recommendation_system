@@ -1,0 +1,10 @@
+pymongo
+requests
+lxml
+jieba
+bs4
+gevent
+numpy
+scikit-learn
+flask
+scipy
