@@ -16,5 +16,5 @@ RecSys_CountVectorizer.ipynb：词频统计后计算余弦相似度。
 
 存储于results文件夹下  。
 
-![result1](/media/gzh/Files/RecSys/novel_recommendation_system/pic/result1.png)
+![result1](./pic/result1.png)
 
