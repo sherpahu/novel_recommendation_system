@@ -1,10 +1,12 @@
+[TOC]
+
 # 小说推荐系统
 
 ## 代码
 
 RecSys_CountVectorizer.ipynb：词频统计后计算余弦相似度。
 
-
+RecSys_Word2Vec.ipynb：PySpark Word2Vec再计算余弦相似度
 
 ## 数据
 
@@ -14,7 +16,17 @@ RecSys_CountVectorizer.ipynb：词频统计后计算余弦相似度。
 
 ## 结果
 
-存储于results文件夹下  。
+存储于results文件夹下  
+
+### CountVectorizer结果
 
 ![result1](./pic/result1.png)
+
+### Word2Vec结果
+
+![result2](./pic/result2.png)
+
+
+
+
 
